@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"Zoeys Knockdown Mod"
+	"version"	"Version 1.1"
+	"up_date"	"September 17th 2010"
+	"author_name"	" "
+	"author_url"	"N/A"
+	
+	"info"		"Makes it so you can get knocked down by large enemys and high enough dmg."
+
+	"override"	"0"
+}
